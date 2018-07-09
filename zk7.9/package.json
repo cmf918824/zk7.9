@@ -1,0 +1,13 @@
+{
+    "name": "zk7.9",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "glup dev",
+        "duile": "glup duile"
+    },
+    "author": "",
+    "license": "ISC"
+}
